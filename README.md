@@ -1,3 +1,3 @@
-# netbox-inventory-plugin
+# netboxcommunity-netbox-inventory
 
-NetBox docker image + inventory plugin: https://github.com/ArnesSI/netbox-inventory#settings
+NetBox docker image (https://hub.docker.com/r/netboxcommunity/netbox) + inventory plugin (https://github.com/ArnesSI/netbox-inventory#settings).
